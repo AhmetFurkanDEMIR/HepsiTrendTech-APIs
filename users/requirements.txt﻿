@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+mangum
+pydantic
+botocore
+psycopg2

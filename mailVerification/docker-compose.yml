@@ -1,0 +1,12 @@
+version: '3.0'
+
+services:
+
+  mail-verification:
+    build: .
+    ports:
+      - "5006:5006"
+    volumes:
+      - .:/code
+
+    restart: on-failure

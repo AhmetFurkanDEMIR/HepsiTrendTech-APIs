@@ -1,0 +1,12 @@
+version: '3.0'
+
+services:
+
+  users:
+    build: .
+    ports:
+      - "8006:8006"
+    volumes:
+      - .:/code
+
+    restart: on-failure
