@@ -2,6 +2,8 @@
 
 # HepsiTrendTech APIs 
 
+![api](https://github.com/AhmetFurkanDEMIR/HepsiTrendTech-APIs/assets/54184905/b17d6e13-3e0b-46e5-b8a7-41f24c2ed3ca)
+
 Email verification, Model predict and User operations APIs. 
 
 
